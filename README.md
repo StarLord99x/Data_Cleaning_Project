@@ -28,4 +28,7 @@ This repository contains the following files:
 
 Additional information on the data contained in these files can
 be found in the README.txt and other files distributed in the
-original zipped data file. It can be found at:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. I downloaded this file on 12 April 2020.
+original zipped data file. I downloaded this file on 12 April 2020.
+It can be found at:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip

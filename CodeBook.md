@@ -19,8 +19,8 @@ variables in this data table are:
 
 ## Description of project_data_means_tidy.txt
 
-The project_data_means_tidy.txt file contains the means of each
-observation by activity and subject. Thevariables in this data
+The project_data_means_tidy.txt file contains the averages of each
+observation by activity and subject. The variables in this data
 table are:
 
 * activity_label is the human-readable description of the activity
